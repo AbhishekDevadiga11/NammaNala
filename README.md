@@ -49,3 +49,15 @@ Screenshots will be added in future updates.
 ## Developed For
 
 Android App Development using GenAI Internship Project
+
+
+## Installation
+
+1. Clone repository
+2. Open in Android Studio
+3. Sync Gradle
+4. Run application
+
+## Author
+
+Developed by: Abhishek Devadiga
