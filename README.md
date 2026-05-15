@@ -33,3 +33,19 @@ components/
 
 ## Screenshots
 (Add screenshots here later)
+
+
+## Screenshots
+
+Screenshots will be added in future updates.
+
+## Future Scope
+
+- AI-based issue detection
+- Complaint tracking
+- Government portal integration
+- Real-time status updates
+
+## Developed For
+
+Android App Development using GenAI Internship Project
